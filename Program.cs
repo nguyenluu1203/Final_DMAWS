@@ -1,6 +1,3 @@
-﻿using Final_DMAWS.Data;
-using Microsoft.EntityFrameworkCore;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -26,9 +23,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-//AppDbContext
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
-

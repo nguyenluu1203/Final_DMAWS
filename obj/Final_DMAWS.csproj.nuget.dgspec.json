@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_ DMAWS.csproj": {}
+    "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_DMAWS.csproj": {}
   },
   "projects": {
-    "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_ DMAWS.csproj": {
+    "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_DMAWS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_ DMAWS.csproj",
-        "projectName": "Final_ DMAWS",
-        "projectPath": "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_ DMAWS.csproj",
+        "projectUniqueName": "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_DMAWS.csproj",
+        "projectName": "Final_DMAWS",
+        "projectPath": "/Users/mac/Documents/SEM 3/Final_DMAWS/Final_DMAWS.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
         "outputPath": "/Users/mac/Documents/SEM 3/Final_DMAWS/obj/",
         "projectStyle": "PackageReference",
@@ -40,20 +40,6 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.20, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.20, )"
             },
