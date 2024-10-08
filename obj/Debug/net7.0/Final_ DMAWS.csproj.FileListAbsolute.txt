@@ -1,0 +1,76 @@
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.csproj.AssemblyReference.cache
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.AssemblyInfoInputs.cache
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.AssemblyInfo.cs
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.MvcApplicationPartsAssemblyInfo.cs
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.MvcApplicationPartsAssemblyInfo.cache
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/appsettings.Development.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/appsettings.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Final_ DMAWS
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Final_ DMAWS.deps.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Final_ DMAWS.runtimeconfig.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Final_ DMAWS.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Final_ DMAWS.pdb
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Azure.Core.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Azure.Identity.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Humanizer.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets/msbuild.Final_ DMAWS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets/msbuild.build.Final_ DMAWS.props
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Final_ DMAWS.props
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Final_ DMAWS.props
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/scopedcss/bundle/Final_ DMAWS.styles.css
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ D.CAC89983.Up2Date
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/refint/Final_ DMAWS.dll
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.pdb
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/Final_ DMAWS.genruntimeconfig.cache
+/Users/mac/Documents/SEM 3/Final_ DMAWS/obj/Debug/net7.0/ref/Final_ DMAWS.dll
